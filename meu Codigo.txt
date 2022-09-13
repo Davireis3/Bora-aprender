@@ -1,2 +1,3 @@
 Olá, tudo certo!
- Estou parendendo agora  a como usar.
+ Estou aprendendo agora  a como usar.
+Nova linha.
